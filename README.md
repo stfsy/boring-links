@@ -10,7 +10,7 @@
 - https://grafana.com/dashboards/8563 `Complete dashboard using metrics from prometheus JMX exporter, with drill down per job > instance`
 
 ### MIT OpenCourseWare
-- https://ocw.mit.edu/help/get-started-with-ocw/
+- https://ocw.mit.edu/help/get-started-with-ocw/ `“The idea is simple: to publish all of our course materials online and make them widely available to everyone.” — Dick K.P. Yue, Professor, MIT School of Engineering`
 
 ### PlantUML
 - http://plantuml.com/
