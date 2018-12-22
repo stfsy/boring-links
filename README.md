@@ -4,10 +4,16 @@
 - https://material.io/tools/resizer/
 - http://materialdesignicons.com/
 
+### Go
+- https://golang.org/doc/effective_go.html `The Go Programming Language`
+
 ### Grafana Dashboards
 - https://grafana.com/dashboards/3457 `Dashboard for JVM metrics with Prometheus / JMX Exporter`
 - https://grafana.com/dashboards/4701 `Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)`
 - https://grafana.com/dashboards/8563 `Complete dashboard using metrics from prometheus JMX exporter, with drill down per job > instance`
+
+### Icons
+- http://jollyicons.com/ `Jolly Icons is a set of 400 hand-drawn icons painted with love to add personality and joy to your project`
 
 ### MIT OpenCourseWare
 - https://ocw.mit.edu/help/get-started-with-ocw/ `“The idea is simple: to publish all of our course materials online and make them widely available to everyone.” — Dick K.P. Yue, Professor, MIT School of Engineering`
