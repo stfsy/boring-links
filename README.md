@@ -26,3 +26,8 @@
 - https://docs.spring.io/spring/docs/current/spring-framework-reference/ `Spring Framework Documentation`
 - https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html `[..] covers all the technologies that are absolutely integral to the Spring Framework`
 - https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html `This appendix provides a list of common Spring Boot properties and references to the underlying classes that consume them`
+
+## Misc
+
+- http://veithen.io/2014/11/16/sigterm-propagation.html `How to propagate SIGTERM to a child process in a Bash script`
+- https://www.jujens.eu/posts/en/2017/Feb/15/docker-unix-socket/ `Use Unix sockets with Docker`
