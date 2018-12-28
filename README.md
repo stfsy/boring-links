@@ -32,5 +32,6 @@
 
 ## Misc
 
+- https://lawsofux.com
 - http://veithen.io/2014/11/16/sigterm-propagation.html `How to propagate SIGTERM to a child process in a Bash script`
 - https://www.jujens.eu/posts/en/2017/Feb/15/docker-unix-socket/ `Use Unix sockets with Docker`
