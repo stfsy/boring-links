@@ -39,3 +39,4 @@
 - http://veithen.io/2014/11/16/sigterm-propagation.html `How to propagate SIGTERM to a child process in a Bash script`
 - https://www.jujens.eu/posts/en/2017/Feb/15/docker-unix-socket/ `Use Unix sockets with Docker`
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions `[..] Bash Aliases and Functions`
+- https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/ `Safer bash scripts [..]`
