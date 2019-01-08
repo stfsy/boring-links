@@ -35,7 +35,7 @@
 
 ## Misc
 
-- https://mustread.tech/books
+- https://mustread.tech/books `open-source and crowd-sourced book listing`
 - https://lawsofux.com
 - https://misc.flogisoft.com/bash/tip_colors_and_formatting `Bash tips: colors and formatting`
 - https://unicode-table.com/en/#control-character
