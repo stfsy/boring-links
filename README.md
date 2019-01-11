@@ -38,7 +38,7 @@
 - https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html `This appendix provides a list of common Spring Boot properties and references to the underlying classes that consume them`
 
 ## Misc
-
+- https://medium.freecodecamp.org/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27
 - https://mustread.tech/books `open-source and crowd-sourced book listing`
 - https://lawsofux.com
 - https://misc.flogisoft.com/bash/tip_colors_and_formatting `Bash tips: colors and formatting`
