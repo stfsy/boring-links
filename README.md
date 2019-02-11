@@ -18,6 +18,9 @@
 - https://grafana.com/dashboards/4701 `Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)`
 - https://grafana.com/dashboards/8563 `Complete dashboard using metrics from prometheus JMX exporter, with drill down per job > instance`
 
+### Hibernate 
+- https://docs.jboss.org/hibernate/orm/3.6/reference/en-US/html/session-configuration.html
+
 ### IBM 
 -https://www.ibm.com/support/knowledgecenter/en/was_beta_liberty/com.ibm.websphere.wlp.nd.multiplatform.doc/ae/rwlp_setup_jarserver.html
 
