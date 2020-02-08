@@ -35,6 +35,15 @@
 - http://plantuml.com/ `Easily create UML Diagrams from simple textual description`
 - http://ogom.github.io/draw_uml/plantuml/ `PlantUML CheatSheet`
 
+### RaspberryPi
+- https://howtoraspberrypi.com/how-to-overclock-raspberry-pi/
+- https://scribles.net/disabling-bluetooth-on-raspberry-pi/ 
+- https://github.com/Mange/rtl8192eu-linux-driver `Wifi drivers ready for compilation..`
+- https://github.com/chootka/subnodes/ `Meshing.. `
+- https://medium.com/@tdoll/how-to-setup-a-raspberry-pi-ad-hoc-network-using-batman-adv-on-raspbian-stretch-lite-dce6eb896687
+- https://medium.com/swlh/setting-up-an-ad-hoc-mesh-network-with-raspberry-pi-3b-using-batman-adv-1c08ee565165
+- https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md `Network bridge wlan0 -> eth0`
+
 ### Spring
 - https://docs.spring.io/spring/docs/current/spring-framework-reference/ `Spring Framework Documentation`
 - https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html `[..] covers all the technologies that are absolutely integral to the Spring Framework`
